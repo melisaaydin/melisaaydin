@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Melisa Aydin.2 At Sakarya University. i am a software engineer student in the classroom.I am currently developing myself in the frontend using Html, Css,Javascript,React. I am trying to improve myself further with applications in the C++ and C# programming languages. In addition, I  also improving myself in .NET core.
+I am Melisa Aydin.I am a student at Sakarya University. My department is Software Engineering.I am currently developing myself in the frontend using Html, Css,Javascript,React. I am trying to improve myself further with applications in the C++ and C# programming languages. In addition, I  also improving myself in .NET core.
 
 
 ## 🌐 Socials:
