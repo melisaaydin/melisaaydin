@@ -1,4 +1,4 @@
-[ReadMe (3).md](https://github.com/user-attachments/files/25740099/ReadMe.3.md)
+
 # 💫 About Me:
 I am a 3rd-year Software Engineering student at Sakarya University (English Program).
 
