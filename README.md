@@ -1,7 +1,26 @@
 [ReadMe (3).md](https://github.com/user-attachments/files/25740099/ReadMe.3.md)
 # 💫 About Me:
-Software Engineering student passionate about Web Development and Robotics Software Systems.<br><br>I build full-stack web applications using React, Node.js, ASP.NET Core, and PostgreSQL, and I develop robotic systems with ROS2, Nav2, SLAM Toolbox, and Gazebo.<br><br>I have worked on autonomous robot simulations with real-time web control panels, multi-user game platforms with Socket.IO, and backend systems involving REST APIs, Kafka, and distributed caching.<br><br>I enjoy designing scalable architectures, solving real-world problems, and continuously improving my technical skills.<br><br>🚀 Currently focused on:<br><br>Full-stack Web Development<br><br>ROS2 & Autonomous Navigation<br><br>Real-time systems and WebSocket communication
+I am a 3rd-year Software Engineering student at Sakarya University (English Program).
 
+I am passionate about Web Development and Robotics Software Systems. I develop full-stack web applications using React, Node.js, ASP.NET Core, and PostgreSQL, and build autonomous robotic systems with ROS2, Nav2, SLAM Toolbox, and Gazebo.
+
+I have developed:
+
+An autonomous home service robot simulation with real-time web control interface
+
+Multi-user game platforms with real-time communication (Socket.IO)
+
+Backend systems involving REST APIs, Kafka, and distributed caching
+
+I enjoy working on real-time systems, scalable architectures, and solving practical engineering problems.
+
+🚀 Currently focusing on:
+
+Full-stack Web Development
+
+ROS2 & Autonomous Navigation
+
+Real-time communication systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melisa-aaydin/) 
